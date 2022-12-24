@@ -1,0 +1,8 @@
+
+.combinedcontent{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(25,25,25);
+    font-size: large;
+    align-items: center;
+}

@@ -1,0 +1,9 @@
+.contentlist{
+    color: white;
+}
+li{
+    color:rgb(97,218,251);
+}
+li>span{
+    color:white;
+}

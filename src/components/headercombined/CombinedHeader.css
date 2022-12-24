@@ -1,0 +1,24 @@
+.combinedheaderstyle{
+    display: flex;
+    background-color: black;
+    color:white;
+    align-items: center;
+    justify-content: space-between;
+}
+.leftflank{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.reactlogo{
+    width: 8em;
+    height: 4em;
+}
+.header{
+   font-size: 2em;
+   padding:0.5em;
+   color:rgb(97,218,251);
+}
+.rightflank{
+    padding:0.5em;
+}
